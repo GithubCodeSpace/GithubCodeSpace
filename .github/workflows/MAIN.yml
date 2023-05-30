@@ -77,3 +77,5 @@ jobs:
     cache-dependency-path: # optional
     # Deprecated. Use node-version instead. Will not be supported after October 1, 2019
     version: # optional
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
